@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Healthcare Treatment Cost Prediction
 
 An end-to-end machine learning application that predicts healthcare treatment costs based on patient information.
@@ -47,3 +48,7 @@ Linear Regression Model
  |
  v
 Predicted Healthcare Cost
+=======
+# healthcare-cost-prediction
+End-to-end Healthcare Treatment Cost Prediction using Machine Learning, FastAPI, Streamlit and Docker.
+>>>>>>> 5e12ed681c38d20436d6a36066092d2fb88c10bc
